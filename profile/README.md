@@ -1,4 +1,4 @@
-# flrhs.dev
+# flrsh.dev
 
 flrsh (pronounced flourish) is an online learning platform dedicated to empowering the R community. We teach you how to create scalable analytics products and how to deploy into production environments. 
 
