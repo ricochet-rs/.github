@@ -13,7 +13,7 @@ We're quite a ways from a beta release.
 - [x] Redesign landing page
 - [x] Create user accounts
 - [x] Sign flow
-- [ ] Contact page connection to Supabase
+- [x] Contact page connection to Supabase
 - [ ] User profile page
 - [ ] Course landing pages
 - [ ] Courses exploration page
