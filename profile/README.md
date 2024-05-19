@@ -4,7 +4,7 @@ flrsh (pronounced flourish) is an online learning platform dedicated to empoweri
 
 Want to support our mission? [Consider becoming a sponsor](https://www.patreon.com/flrsh_dev). 
 
-Is there a course you want to see made? Want to sponsor its development? Email us at `flrshdev at gmail dot com`
+Is there a course you want to see made? Want to sponsor its development? Email us at `flrshdev@gmail.com`
 
 ## Roadmap 
 
