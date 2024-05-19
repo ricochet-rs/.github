@@ -22,4 +22,4 @@ We're quite a ways from a beta release.
 - [ ] Write [DuckDB Deep Dive course](https://github.com/flrsh-dev/flrsh-lessons/blob/main/duckdb-deep-dive/)
 - [ ] Figure out package storage
 - [ ] Figure out virtual file system 
-- [ ] Supabase edge function for monitoring contact page
+- [ ] Supabase edge function for monitoring contact page & rate limiting? 
