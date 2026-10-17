@@ -1,6 +1,6 @@
 # ricochet
 
-**The universal data science deployment platform.**
+**The data science deployment platform.**
 
 Deploy R, Julia, and Python apps, APIs, documents, and scripts on your own infrastructure, secured by your identity provider and scaled on demand.
 Self-host it free with the [Community Edition](https://docs.ricochet.rs/latest/admin/pricing/5-community-edition/), or use Ricochet Cloud.
